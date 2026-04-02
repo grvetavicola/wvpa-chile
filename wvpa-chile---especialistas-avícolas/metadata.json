@@ -1,0 +1,8 @@
+{
+  "name": "WVPA Chile - Especialistas Avícolas",
+  "description": "Sitio oficial de la rama chilena de la World Veterinary Poultry Association. Excelencia en salud, bienestar y producción aviar.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
